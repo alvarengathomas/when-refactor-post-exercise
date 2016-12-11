@@ -15,7 +15,7 @@ Entretando, o código dessa aplicação está bem ruim!
 
 **O que você pode fazer para melhorá-lo utilizando o que aprendeu no post?**
 
-# Como usar?
+## Como usar?
 
 1. Faça um fork desse repositório
 
@@ -32,7 +32,7 @@ Entretando, o código dessa aplicação está bem ruim!
     ```javascript
     npm start
     ```
-    
+
 5. Refatore o código
 
 6. Envie um Pull Request 
