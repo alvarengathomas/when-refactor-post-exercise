@@ -1,0 +1,24 @@
+{
+  "name": "when-refactor-post-exercise",
+  "version": "1.0.0",
+  "description": "Esse repositório está com o código ruim de propósito para servir como um exercício prático do post [\"Quando refatorar meu código-fonte?\"](https://alvarengathomas.github.io/quando-refatorar-meu-codigo-fonte) do meu blog.",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvarengathomas/when-refactor-post-exercise.git"
+  },
+  "author": "Thomas Alvarenga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alvarengathomas/when-refactor-post-exercise/issues"
+  },
+  "homepage": "https://github.com/alvarengathomas/when-refactor-post-exercise#readme",
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-preset-latest": "^6.16.0"
+  }
+}
