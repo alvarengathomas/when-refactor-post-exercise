@@ -23,14 +23,16 @@ Entretando, o código dessa aplicação está bem ruim!
 
 3. Instale as dependências do projeto
 
-```
-npm install
-```
+    ```javascript
+    npm install
+    ```
+
 4. Rode a aplicação
 
-```
-npm start
-```
+    ```javascript
+    npm start
+    ```
+    
 5. Refatore o código
 
 6. Envie um Pull Request 
