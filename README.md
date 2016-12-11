@@ -1,7 +1,7 @@
 # Quando refatorar meu código-fonte? - Exercício do Post
 
 Esse repositório está com o código ruim de propósito para servir como um exercício prático do post
-["Quando refatorar meu código-fonte?"](https://alvarengathomas.github.io/quando-refatorar-meu-codigo-fonte){target: _blank} do meu blog.
+["Quando refatorar meu código-fonte?"](https://alvarengathomas.github.io/quando-refatorar-meu-codigo-fonte){:target="_blank"} do meu blog.
 
 Essa é uma aplicação em Javascript de uma caixa registradora, que faz a leitura do valor que deve ser pago pelo cliente
 e o valor que o cliente pagou, para então calcular o troco com o menor número de cédulas e moedas possível.
@@ -25,12 +25,10 @@ Entretando, o código dessa aplicação está bem ruim!
 ```javascript
 npm install
 ```
-
 4. Rode a aplicação
 ```javascript
 npm start
 ```
-
 5. Refatore o código
 
 6. Envie um Pull Request 
